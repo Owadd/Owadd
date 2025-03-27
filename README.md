@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D12AQFiQov2psq_GQ/article-cover_image-shrink_720_1280/0/1680704817170?e=2147483647&v=beta&t=InBYHyzqIP2iKH_CVVYc4NgPMb_iThAmuJHEbwIab6M)](https://github.com/Owadd)
 
 <h1 align="center">Hi 👋, I'm Oluwatobi Owadokun</h1>
-<h3 align="center">A Pythonic Finance Developer from Lagos, Nigeria.</h3>
+<h3 align="center">A Data Analyst from Lagos, Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owadd&label=Profile%20views&color=0e75b6&style=flat" alt="owadd" /> </p>
 
