@@ -6,7 +6,7 @@
 
 ---
 
-##What Do I Build?
+## What Do I Build?
 I craft **data pipelines, machine learning systems, and automated workflows** that transform raw information into actionable intelligence — instantly, reliably, and elegantly  
 
 I create systems that **automate financial and business operations**, **predict outcomes with machine learning**, **visualize insights clearly**, and **deliver real-time intelligence** directly to those who need it
@@ -99,14 +99,14 @@ Scalable Telegram bot that ingests, processes, and distributes structured financ
 
 
 
-## 🌱 Currently Working On
+## What am I Currently Working On?
 - Improving automation and scalability of financial pipelines  
 - Real-time dashboards for stock market and macroeconomic data  
 - ML models for predictive insights on customer behavior  
 
 ---
 
-## 📬 Contact
+## 📬Contact
 📧 **owadokunoluwatobi@gmail.com**  
 🔗 GitHub: [https://github.com/Owadd](https://github.com/Owadd)  
 
