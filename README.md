@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtseXJrM2pwZTI3dW95ODNrdWxqZnA2Z3NzbDVtbGZpZGQ4NGxmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif)
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtseXJrM2pwZTI3dW95ODNrdWxqZnA2Z3NzbDVtbGZpZGQ4NGxmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif)
 
 <h1 align="center">Oluwatobi Owadokun</h1>
 <h3 align="center">Analytics Engineer • Machine Learning Engineer</h3>
@@ -7,13 +7,9 @@
 ---
 
 ## 👾 What I Build
-I design **data pipelines, ML models, and automated systems** that turn raw data into actionable insights — fast and reliable.  
+I craft **data pipelines, machine learning systems, and automated workflows** that transform raw information into actionable intelligence — instantly, reliably, and elegantly  
 
-Focus areas:
-- Automated financial & business workflows  
-- Predictive modeling & ML solutions  
-- Data analysis, visualization, and dashboards  
-- Real-time insights & notification systems  
+I create systems that **automate financial and business operations**, **predict outcomes with machine learning**, **visualize insights clearly**, and **deliver real-time intelligence** directly to those who need it
 
 ---
 
