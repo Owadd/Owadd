@@ -48,7 +48,7 @@ I create systems that **automate financial and business operations**, **predict 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a> 
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/beautifulsoup-5695649-4765756.png" alt="beautifulsoup" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" alt="beautifulsoup" width="40" height="40"/> 
   </a> 
   <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="requests" width="40" height="40"/> 
