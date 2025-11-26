@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-![banner](https://media.giphy.com/media/your-gif-link/giphy.gif)
+![banner]([https://media.giphy.com/media/your-gif-link/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtseXJrM2pwZTI3dW95ODNrdWxqZnA2Z3NzbDVtbGZpZGQ4NGxmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif))
 
 <h1 align="center">Oluwatobi Owadokun</h1>
 <h3 align="center">Analytics Engineer • Machine Learning Engineer</h3>
