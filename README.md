@@ -45,7 +45,7 @@ I create systems that **automate financial and business operations**, **predict 
 
   <!-- Automation & Scraping -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="70"/> 
   </a> 
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" alt="beautifulsoup" width="40" height="40"/> 
