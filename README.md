@@ -1,73 +1,113 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFiQov2psq_GQ/article-cover_image-shrink_720_1280/0/1680704817170?e=2147483647&v=beta&t=InBYHyzqIP2iKH_CVVYc4NgPMb_iThAmuJHEbwIab6M" width="100%" />
-</p>
+![Header](https://media.licdn.com/dms/image/D4D12AQFiQov2psq_GQ/article-cover_image-shrink_720_1280/0/1680704817170?e=2147483647&v=beta&t=InBYHyzqIP2iKH_CVVYc4NgPMb_iThAmuJHEbwIab6M)
 
-<h1 align="center">Oluwatobi “Owad” Owadokun</h1>
-<h3 align="center">Data Analyst • Automation • Financial & Economic Data (Nigeria)</h3>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Owadd&label=Visitors&color=0366d6&style=flat-square" alt="Profile Views" />
-</p>
+<h1 align="center">Oluwatobi Owadokun</h1>
+<h3 align="center">Analytics Engineer • Machine Learning Engineer • Automation Specialist</h3>
 
 ---
 
 ## 🚀 About Me
-I build automated systems that turn messy datasets into clean, decision-ready intelligence — especially around **Nigerian economic, financial, and market data**.
+I design systems that take messy, scattered data and turn it into insight engines.  
+My work blends **automation**, **machine learning**, and **end-to-end analytics** to eliminate bottlenecks and deliver intelligence at scale.
 
-My focus:
-- Automating repetitive workflows  
-- Parsing complex PDFs (fitz + regex)  
-- Building insight engines for real-time reporting  
-- Creating clean analytics dashboards  
-- Delivering clarity fast  
+I’ve built pipelines that feed **millions of viewers**, dashboards used by **decision-makers**, and models that predict, classify, or detect patterns with real-world impact.
 
-I prefer efficiency over noise. Systems over hustle. Signal over clutter.
+I don’t just analyze data — I **engineer the workflows** around it.
 
 ---
 
-## 🧩 Current Projects
-- **NGX Insider Trading Pipeline** — Automated daily PDF download → parsing → extraction → CSV pipeline  
-- **Nigeria Macro Data Hub** — Inflation, GDP, FX, rates, all cleaned and updated  
-- **Credit Risk Assessment (XGBoost)** — Feature engineering + model evaluation  
-- **Statisense-Style Insight Generator** — Raw data → formatted insight tweets in one step  
+## 🔧 Technical Stack
+
+### **Programming & Analytics**
+`Python` • `SQL` • `JavaScript` • `HTML/CSS`
+
+### **Libraries & ML Tools**
+`Pandas` • `NumPy` • `Scikit-Learn` • `XGBoost` • `LightGBM` • `TensorFlow`  
+`Selenium` • `BeautifulSoup` • `Requests` • `LXML`
+
+### **Data Visualization**
+`Power BI` • `Excel` • `Streamlit` • `Matplotlib` • `Plotly`
+
+### **Techniques & Concepts**
+ETL • Workflow Automation • Feature Engineering • Predictive Modeling  
+Supervised & Unsupervised ML • Model Evaluation • Exploratory Analysis
+
+### **Other Tools**
+Git • Google Sheets • MySQL • API Integration
 
 ---
 
-## 🛠️ Technologies I Work With
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
-</p>
+## 🏢 Experience
+
+### **Statisense — Analytics Engineer (Feb 2025 – Present)**
+- Built automated pipelines for Nigerian economic, financial & social datasets.  
+- Designed dashboards (Power BI, Excel) used across technical & non-technical teams.  
+- Integrated APIs and scrapers, eliminating repetitive manual processes.  
+- Produced insight systems viewed by millions and amplified by top finance commentators.
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owadd&show_icons=true&count_private=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Owadd&layout=compact&theme=default" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Owadd" height="180" />
-</p>
+### **Unflinched Ltd (StoreBridger) — Analytics Engineer (Aug 2023 – Jan 2025)**
+- Built ETL workflows unifying sales, inventory & payments into a single pipeline.  
+- Automated dashboards and validation scripts for KPI monitoring.
 
 ---
 
-## 📫 Reach Me
-- **Email:** owadd001@gmail.com  
-- **GitHub:** github.com/Owadd  
-- **LinkedIn:** *(add link)*  
-- **Twitter/X:** *(add link)*  
+### **Mutual Benefits Assurance — Data Operations (Sep 2023 – Dec 2023)**
+- Automated repetitive data-entry workflows with Excel & Sheets.  
+- Supported multi-team operations with efficient, error-free data processes.
 
 ---
 
+## 🧠 Highlight Projects (Curated)
+
+### **📌 Credit Risk Assessment Model (XGBoost)**
+Predictive model evaluating loan default probability using engineered features.  
+**Tech:** Python, XGBoost, Scikit-learn  
+**Repo:** https://github.com/Owadd/XGBoost-Credit-Risk-Assessment
+
+---
+
+### **📌 NGX Insider Trading Pipeline (Automation + PDF Extraction)**
+End-to-end system that downloads insider-trading PDFs daily, parses tables using `fitz + regex`, and outputs clean CSVs.  
+**Tech:** Python, fitz, Regex, Scheduling, ETL  
+*(Perfect for showcasing your automation expertise.)*
+
+---
+
+### **📌 Sales & Inventory ETL Engine (StoreBridger)**
+Automated ingestion + cleaning + merge workflows powering unified business dashboards.  
+**Tech:** Python, SQL, Pandas
+
+---
+
+### **📌 ML Portfolio**
+Classification, clustering, and predictive modeling projects demonstrating a solid ML foundation.  
+**Tech:** Scikit-Learn, XGBoost, LightGBM, TensorFlow
+
+---
+
+## 🎓 Education
+**BSc Computer Science**  
+Federal University of Agriculture, Abeokuta
+
+---
+
+## 🏅 Certifications
+- **DataCamp — Associate Data Analyst Certification**
+
+---
+
+## 📬 Contact
+📧 **owadokunoluwatobi@gmail.com**  
+🔗 **GitHub:** https://github.com/owadd001  
+🔗 **LinkedIn:** *(add your link)*  
+🔗 **Twitter/X:** *(optional)*
+
+---
+
+## ⚡ What I’m Focused On Now
+- Building automated insight systems for Nigeria’s economic & financial data  
+- Advanced ML modeling (XGBoost/LightGBM pipelines)  
+- High-signal dashboards for decision-makers  
+- Data engineering workflows that remove friction  
