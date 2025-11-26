@@ -56,7 +56,7 @@ I create systems that **automate financial and business operations**, **predict 
 
   <!-- Visualization & Dashboards -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" alt="powerbi" width="40" height="40"/> 
+    <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG.png" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
