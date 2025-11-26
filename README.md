@@ -17,12 +17,58 @@ Focus areas:
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**Libraries & ML:** Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM, TensorFlow  
-**Automation & Scraping:** Selenium, BeautifulSoup, Requests  
-**Visualization & Dashboards:** Power BI, Excel, Streamlit  
-**Data Handling:** MySQL, APIs, ETL workflows  
+<h3 align="left">🧰 Tech Stack & Tools</h3>
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+
+  <!-- Libraries & ML -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/amueller/word_cloud/master/docs/_static/xgboost_logo.png" alt="xgboost" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+
+  <!-- Automation & Scraping -->
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/beautifulsoup-5695649-4765756.png" alt="beautifulsoup" width="40" height="40"/> 
+  </a> 
+  <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="requests" width="40" height="40"/> 
+  </a> 
+
+  <!-- Visualization & Dashboards -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+  </a> 
+  <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 
@@ -56,21 +102,6 @@ Analyzes social media sentiment for cryptocurrencies using NLP and machine learn
 Scalable Telegram bot that ingests, processes, and distributes structured financial & news data in real time. Optimized pipelines for fast, reliable delivery.  
 *(Add repo if public)*
 
----
-
-## 🖼️ Gallery / Visuals
-*(Add screenshots, GIFs, or diagrams to make this visually engaging)*
-
-### 🔹 Project Preview 1
-![image1](ADD_LINK_HERE)
-
-### 🔹 Project Preview 2
-![image2](ADD_LINK_HERE)
-
-### 🔹 Project Preview 3
-![image3](ADD_LINK_HERE)
-
----
 
 ## 🌱 Currently Working On
 - Improving automation and scalability of financial pipelines  
