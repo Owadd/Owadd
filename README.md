@@ -6,14 +6,14 @@
 
 ---
 
-## 👾 What I Build
+##What Do I Build?
 I craft **data pipelines, machine learning systems, and automated workflows** that transform raw information into actionable intelligence — instantly, reliably, and elegantly  
 
 I create systems that **automate financial and business operations**, **predict outcomes with machine learning**, **visualize insights clearly**, and **deliver real-time intelligence** directly to those who need it
 
 ---
 
-<h3 align="left">🧰 Tech Stack & Tools</h3>
+<h3 align="left">Here are my tools</h3>
 <p align="left"> 
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -68,7 +68,7 @@ I create systems that **automate financial and business operations**, **predict 
 
 ---
 
-## 📁 Featured Projects
+## 📁Featured Projects
 
 ### **1. Credit Risk Assessment**
 Predictive model that evaluates loan default probability using XGBoost and engineered features.  
