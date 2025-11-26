@@ -37,7 +37,7 @@ I create systems that **automate financial and business operations**, **predict 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a> 
   <a href="https://xgboost.ai/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xgblog.ai%2Fp%2Fxgboost-is-all-you-need&psig=AOvVaw0EeISqbagwj55K5yTE-qz2&ust=1764251495138000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYxsiO-4-RAxXRY0EAHbdhClcQjRx6BAgAEBo width="40" height="40"/> 
+    <img src="https://substackcdn.com/image/fetch/$s_!eN4O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ed6c27-13c2-4389-8c3f-5f172965f9ac_938x316.heic" alt="XG Boost" width="40" height="40"/> 
   </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
