@@ -96,7 +96,7 @@ Analyzes social media sentiment for cryptocurrencies using NLP and machine learn
 
 ### **5. Automated Financial News Alerts Bot**
 Scalable Telegram bot that ingests, processes, and distributes structured financial & news data in real time. Optimized pipelines for fast, reliable delivery.  
-*(Add repo if public)*
+
 
 
 ## 🌱 Currently Working On
@@ -107,6 +107,6 @@ Scalable Telegram bot that ingests, processes, and distributes structured financ
 ---
 
 ## 📬 Contact
-📧 **owadd001@gmail.com**  
+📧 **owadokunoluwatobi@gmail.com**  
 🔗 GitHub: [https://github.com/Owadd](https://github.com/Owadd)  
-🔗 LinkedIn: *(optional)*  
+
