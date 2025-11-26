@@ -13,7 +13,7 @@ I create systems that **automate financial and business operations**, **predict 
 
 ---
 
-<h3 align="left">Here are my tools</h3>
+<h3 align="left">Here are my Tools and Libraries</h3>
 <p align="left"> 
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
