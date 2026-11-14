@@ -1,6 +1,6 @@
-<!-- Wide Animated Tech & AI Developer Banner -->
+<!-- Clean Dark-Tech Developer GIF Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Developer Workspace Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Workspace Animation" width="270" />
 </p>
 
 <h1 align="center">Owadokun Oluwatobi Ezekiel</h1>
